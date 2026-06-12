@@ -1,0 +1,15 @@
+{
+  "BTech": [
+    "Computer Science and Engineering (CSE)",
+    "Artificial Intelligence & Data Science (AI & DS)",
+    "Information Technology (IT)",
+    "Electronics and Communication Engineering (ECE)",
+    "Electrical and Electronics Engineering (EEE)",
+    "Mechanical Engineering (ME)",
+    "Civil Engineering (CE)"
+  ],
+  "PG": [
+    "M.Tech",
+    "Master of Computer Applications (MCA)"
+  ]
+}

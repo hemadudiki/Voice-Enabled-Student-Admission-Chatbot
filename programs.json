@@ -1,0 +1,12 @@
+{
+  "AC": {
+    "hostel_fee": 130000,
+    "laundry_fee": 7500
+  },
+  "Non-AC": {
+    "hostel_fee": 100000,
+    "laundry_fee": 7500
+  },
+  "exam_fee": 1000
+}
+
