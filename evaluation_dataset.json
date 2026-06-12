@@ -1,0 +1,154 @@
+[
+  {
+    "question": "What is the cutoff rank for CSE?",
+    "ground_truth": " 25000."
+  },
+  {
+    "question": "What is the cutoff rank for ECE?",
+    "ground_truth": " 40000."
+  },
+  {
+    "question": "Is my rank 24000 eligible for CSE under Category-A?",
+    "ground_truth": "Yes. Your rank 24000 is eligible for CSE under Category-A."
+  },
+  {
+    "question": "Is my rank 50000 eligible for CSE under Category-A?",
+    "ground_truth": "No. Your rank 50000 is not eligible for CSE under Category-A."
+  },
+  {
+    "question": "Is AP EAPCET mandatory for Category-B admission?",
+    "ground_truth": "No, as per institutional norms"
+  },
+  {
+    "question": "How many seats fall under Category-A?",
+    "ground_truth": "Seventy percent of seats fall under Category-A."
+  },
+  {
+    "question": "What is the annual AC hostel fee including laundry?",
+    "ground_truth": "AC Hostel annual fee is 130000 and laundry fee is 7500."
+  },
+  {
+    "question": "What is the annual Non-AC hostel fee including laundry?",
+    "ground_truth": "Non-AC Hostel annual fee is 100000 and laundry fee is 7500."
+  },
+  {
+    "question": "What is the highest package offered?",
+    "ground_truth": "40 LPA "
+  },
+  {
+    "question": "What is the average salary package?",
+    "ground_truth": "4.5 to 5.0 LPA or 4.75 LPA "
+  },
+  {
+    "question": "Is government reimbursement available for Category-B?",
+    "ground_truth": "Government fee reimbursement does not apply to Category-B."
+  },
+  {
+    "question": "Can diploma students apply for lateral entry?",
+    "ground_truth": "Diploma holders may apply for lateral entry through AP ECET."
+  },
+  {
+    "question": "Is the campus ragging-free?",
+    "ground_truth": "YES, The campus is ragging-free as per UGC guidelines."
+  },
+  {
+    "question": "Which university is VLITS affiliated to?",
+    "ground_truth": "Jawaharlal Nehru Technological University, Kakinada."
+  },
+  {
+    "question": "What is the NAAC accreditation grade?",
+    "ground_truth": "The institution has been accredited with an A+ grade by NAAC."
+  },
+  {
+    "question": "What is the admission email?",
+    "ground_truth": "infovignanlara@vignan.ac.in."
+  },
+  {
+    "question": "What cities does the bus service cover?",
+    "ground_truth": "Bus transportation is available from Guntur, Vijayawada, Tenali, and nearby towns."
+  },
+  {
+    "question": "Is hostel accommodation compulsory?",
+    "ground_truth": "Hostel accommodation is optional."
+  },
+  {
+    "question": "Where is VLITS located?",
+    "ground_truth": "VLITS is located at Vadlamudi Village, Chebrolu Mandal, Guntur District, Andhra Pradesh."
+  },
+  {
+    "question": "How far is the campus from Vijayawada?",
+    "ground_truth": "The campus is approximately 40 to 45 kilometers from Vijayawada city."
+  },
+  {
+    "question": "What is the duration of B.Tech programs?",
+    "ground_truth": " four years."
+  },
+  {
+    "question": "Which entrance exam is required for Category-A admission?",
+    "ground_truth": " AP EAPCET."
+  },
+  {
+    "question": "Which exam is required for lateral entry?",
+    "ground_truth": "AP ECET."
+  },
+  {
+    "question": "What percentage of seats fall under Category-B?",
+    "ground_truth": "Thirty percent of seats fall under Category-B."
+  },
+  {
+    "question": "Are separate hostels available for boys and girls?",
+    "ground_truth": "Yes, Separate hostels are available for boys and girls."
+  },
+  {
+    "question": "Does the hostel provide Wi-Fi and mess facilities?",
+    "ground_truth": "Yes, Hostel amenities include Wi-Fi connectivity and mess facilities providing vegetarian and non-vegetarian food options."
+  },
+  {
+    "question": "What is the nearest railway station to VLITS?",
+    "ground_truth": " Guntur."
+  },
+  {
+    "question": "What is the nearest airport to VLITS?",
+    "ground_truth": "Vijayawada."
+  },
+  {
+    "question": "What is the placement percentage range?",
+    "ground_truth": "Overall placement percentages range between 70% to 80% depending on eligibility and market conditions."
+  },
+  {
+    "question": "Does VLITS have a Training & Placement Cell?",
+    "ground_truth": "VLITS has a dedicated Training & Placement Cell that provides structured training and career guidance."
+  },
+  {
+    "question": "Name  top recruiters that visited the campus in placement season.",
+    "ground_truth": "Top recruiters include TCS, Infosys, HCL Technologies, Amazon, Wipro, Cognizant, Capgemini, Nucon Aerospace, Tata Electronics, and VEM Technologies."
+  },
+  {
+    "question": "What is the contact phone number of VLITS?",
+    "ground_truth": "The main phone number of VLITS is 0863-2381200."
+  },
+  {
+    "question": "Who is the Head of Training & Placements?",
+    "ground_truth": "Prof. Gopi Krishna Badipatla."
+  },
+  {
+    "question": "Is AP EAPCET qualification required for Category-B admission?",
+    "ground_truth": "AP EAPCET qualification is not mandatory for Category-B admission."
+  },
+  {
+    "question": "Does government  reimbursement apply to Category-A?",
+    "ground_truth": "Government fee reimbursement applies to Category-A as per government norms."
+  },
+  {
+    "question": "Does VLITS follow UGC anti-ragging guidelines?",
+    "ground_truth": "Yes, VLITS maintains a strict anti-ragging policy in accordance with UGC guidelines."
+  },
+  {
+    "question": "Is the institution approved by AICTE?",
+    "ground_truth": "Yes, VLITS is approved by the All India Council for Technical Education (AICTE)."
+  },
+  {
+    "question": "Does VLITS have NAAC accreditation?",
+    "ground_truth": "Yes, The institution has been accredited with an A+ grade by NAAC."
+  }
+]
